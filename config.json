@@ -1,4 +1,4 @@
 {
-  "server": "brendown.duckdns.org",
-  "port": 12345
+  "server_ip": "brendown.duckdns.org",
+  "server_port": 12345
 }
