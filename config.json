@@ -1,4 +1,5 @@
 {
+  "client_version": 0.1,
   "server_ip": "brendown.duckdns.org",
   "server_port": 12345,
   "exe_name": "7DaysToDie.exe",
