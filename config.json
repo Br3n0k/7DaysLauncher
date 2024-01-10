@@ -1,4 +1,10 @@
 {
   "server_ip": "brendown.duckdns.org",
-  "server_port": 12345
+  "server_port": 12345,
+  "exe_name": "7DaysToDie.exe",
+  "default_locations": {
+    "C:\\Program Files (x86)\\Steam\\steamapps\\common\\7 Days To Die",
+    "C:\\Program Files\\Steam\\steamapps\\common\\7 Days To Die",
+    "C:\\SteamLibrary\\steamapps\\common\\7 Days To Die"
+  }
 }
